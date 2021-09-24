@@ -2,7 +2,7 @@
   <img src="https://logandk.github.io/serverless-wsgi/assets/header.svg">
 </p>
 
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=serverless-wsgi)](https://sonarcloud.io/dashboard?id=serverless-wsgi)
+
 
 [![npm package](https://nodei.co/npm/serverless-wsgi.svg?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/serverless-wsgi/)
 
@@ -11,6 +11,7 @@
 [![Coverage Status](https://codecov.io/gh/logandk/serverless-wsgi/branch/master/graph/badge.svg)](https://codecov.io/gh/logandk/serverless-wsgi)
 [![Dependency Status](https://david-dm.org/logandk/serverless-wsgi.svg)](https://david-dm.org/logandk/serverless-wsgi)
 [![Dev Dependency Status](https://david-dm.org/logandk/serverless-wsgi/dev-status.svg)](https://david-dm.org/logandk/serverless-wsgi?type=dev)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=serverless-wsgi)](https://sonarcloud.io/dashboard?id=serverless-wsgi)
 
 A Serverless Framework plugin to build your deploy Python WSGI applications using Serverless. Compatible
 WSGI application frameworks include Flask, Django and Pyramid - for a complete list, see:
