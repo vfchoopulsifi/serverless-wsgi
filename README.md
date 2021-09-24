@@ -2,6 +2,8 @@
   <img src="https://logandk.github.io/serverless-wsgi/assets/header.svg">
 </p>
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=serverless-wsgi)](https://sonarcloud.io/dashboard?id=serverless-wsgi)
+
 [![npm package](https://nodei.co/npm/serverless-wsgi.svg?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/serverless-wsgi/)
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
