@@ -9,8 +9,8 @@
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![Build Status](https://travis-ci.org/logandk/serverless-wsgi.svg?branch=master)](https://travis-ci.org/logandk/serverless-wsgi)
 [![Coverage Status](https://codecov.io/gh/logandk/serverless-wsgi/branch/master/graph/badge.svg)](https://codecov.io/gh/logandk/serverless-wsgi)
-[![Dependency Status](https://david-dm.org/vfchoopulsifi/serverless-wsgi.svg)](https://david-dm.org/logandk/serverless-wsgi)
-[![Dev Dependency Status](https://david-dm.org/vfchoopulsifi/serverless-wsgi/dev-status.svg)](https://david-dm.org/logandk/serverless-wsgi?type=dev)
+[![Dependency Status](https://david-dm.org/vfchoopulsifi/serverless-wsgi.svg)](https://david-dm.org/vfchoopulsifi/serverless-wsgi)
+[![Dev Dependency Status](https://david-dm.org/vfchoopulsifi/serverless-wsgi/dev-status.svg)](https://david-dm.org/vfchoopulsifi/serverless-wsgi?type=dev)
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=serverless-wsgi)](https://sonarcloud.io/dashboard?id=serverless-wsgi)
 [![DepShield Badge](https://depshield.sonatype.org/badges/vfchoopulsifi/serverless-wsgi/depshield.svg)](https://depshield.github.io)
 
