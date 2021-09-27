@@ -12,6 +12,8 @@
 [![Dependency Status](https://david-dm.org/logandk/serverless-wsgi.svg)](https://david-dm.org/logandk/serverless-wsgi)
 [![Dev Dependency Status](https://david-dm.org/logandk/serverless-wsgi/dev-status.svg)](https://david-dm.org/logandk/serverless-wsgi?type=dev)
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=serverless-wsgi)](https://sonarcloud.io/dashboard?id=serverless-wsgi)
+[![DepShield Badge](https://depshield.sonatype.org/badges/vfchoopulsifi/serverless-wsgi/depshield.svg)](https://depshield.github.io)
+
 
 A Serverless Framework plugin to build your deploy Python WSGI applications using Serverless. Compatible
 WSGI application frameworks include Flask, Django and Pyramid - for a complete list, see:
